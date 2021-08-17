@@ -7,9 +7,21 @@ import thumbnail2 from '../assets/thumbnail2.png';
 import thumbnail3 from '../assets/thumbnail3.png';
 
 const data = [
-  { _id: 1, modelName: 'Nike Air Max 270', thumbnail: thumbnail1, brandName: 'Nike', price: 195.8 },
-  { _id: 2, modelName: 'Nike Air Max 90', thumbnail: thumbnail2, brandName: 'Nike', price: 195.8 },
-  { _id: 3, modelName: 'Nike Air Max Plus', thumbnail: thumbnail3, brandName: 'Nike', price: 195.8 },
+  { _id: 1,
+    modelName: 'Nike Air Max 270',
+    thumbnail: thumbnail1,
+    brandName: 'Nike', price: 195.8
+  },
+  { _id: 2,
+    modelName: 'Nike Air Max 90',
+    thumbnail: thumbnail2,
+    brandName: 'Nike', price: 195.8
+  },
+  { _id: 3,
+    modelName: 'Nike Air Max Plus',
+    thumbnail: thumbnail3,
+    brandName: 'Nike', price: 195.8
+  },
 ]
 
 const BestsellersComponent = {
